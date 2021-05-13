@@ -1,0 +1,477 @@
+[
+    {
+        "id": 29481732,
+        "description": "163-izvoz-kartic",
+        "end_time": "2019-11-29T04:45:36.000+01:00",
+        "start_time": "2019-11-29T04:42:11.000+01:00",
+        "seconds": 205,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 29480405,
+        "description": "163-izvoz-kartic",
+        "end_time": "2019-11-29T04:42:11.000+01:00",
+        "start_time": "2019-11-29T04:12:04.000+01:00",
+        "seconds": 1807,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 29479422,
+        "description": "163-izvoz-kartic",
+        "end_time": "2019-11-29T04:12:04.000+01:00",
+        "start_time": "2019-11-29T03:42:01.000+01:00",
+        "seconds": 1803,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 29477531,
+        "description": "163-izvoz-kartic",
+        "end_time": "2019-11-29T03:10:13.000+01:00",
+        "start_time": "2019-11-29T03:04:52.000+01:00",
+        "seconds": 321,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 29463375,
+        "description": "163-izvoz-kartic",
+        "end_time": "2019-11-28T23:57:40.000+01:00",
+        "start_time": "2019-11-28T23:19:45.000+01:00",
+        "seconds": 2275,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 29462038,
+        "description": "163-izvoz-kartic",
+        "end_time": "2019-11-28T23:19:45.000+01:00",
+        "start_time": "2019-11-28T22:49:42.000+01:00",
+        "seconds": 1803,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 29461642,
+        "description": "163-izvoz-kartic",
+        "end_time": "2019-11-28T22:49:42.000+01:00",
+        "start_time": "2019-11-28T22:19:39.000+01:00",
+        "seconds": 1803,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28979663,
+        "description": "162-zdruzitev-uporabnikov",
+        "end_time": "2019-11-19T08:42:31.000+01:00",
+        "start_time": "2019-11-19T08:29:31.000+01:00",
+        "seconds": 780,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28978612,
+        "description": "162-zdruzitev-uporabnikov",
+        "end_time": "2019-11-19T08:29:31.000+01:00",
+        "start_time": "2019-11-19T07:59:27.000+01:00",
+        "seconds": 1804,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28977085,
+        "description": "162-zdruzitev-uporabnikov",
+        "end_time": "2019-11-19T07:59:27.000+01:00",
+        "start_time": "2019-11-19T07:29:25.000+01:00",
+        "seconds": 1802,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28973844,
+        "description": "162-zdruzitev-uporabnikov",
+        "end_time": "2019-11-19T06:07:00.000+01:00",
+        "start_time": "2019-11-19T06:05:53.000+01:00",
+        "seconds": 67,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28970362,
+        "description": "162-zdruzitev-uporabnikov",
+        "end_time": "2019-11-19T04:48:44.000+01:00",
+        "start_time": "2019-11-19T04:27:57.000+01:00",
+        "seconds": 1247,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28969122,
+        "description": "162-zdruzitev-uporabnikov",
+        "end_time": "2019-11-19T04:27:57.000+01:00",
+        "start_time": "2019-11-19T03:27:55.000+01:00",
+        "seconds": 3602,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28689044,
+        "description": "156-pregled-spletnih-narocil",
+        "end_time": "2019-11-13T15:14:54.000+01:00",
+        "start_time": "2019-11-13T14:37:11.000+01:00",
+        "seconds": 2263,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28666547,
+        "description": "156-pregled-spletnih-narocil",
+        "end_time": "2019-11-13T06:41:41.000+01:00",
+        "start_time": "2019-11-13T06:12:43.000+01:00",
+        "seconds": 1738,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28666256,
+        "description": "156-pregled-spletnih-narocil",
+        "end_time": "2019-11-13T06:10:53.000+01:00",
+        "start_time": "2019-11-13T06:01:34.000+01:00",
+        "seconds": 559,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28665649,
+        "description": "156-pregled-spletnih-narocil",
+        "end_time": "2019-11-13T05:50:41.000+01:00",
+        "start_time": "2019-11-13T05:40:01.000+01:00",
+        "seconds": 640,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28664859,
+        "description": "156-pregled-spletnih-narocil",
+        "end_time": "2019-11-13T05:40:01.000+01:00",
+        "start_time": "2019-11-13T05:09:51.000+01:00",
+        "seconds": 1810,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28663712,
+        "description": "161-stanje-kartice",
+        "end_time": "2019-11-13T05:09:50.000+01:00",
+        "start_time": "2019-11-13T04:41:10.000+01:00",
+        "seconds": 1720,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28663667,
+        "description": "161-stanje-kartice",
+        "end_time": "2019-11-13T04:41:05.000+01:00",
+        "start_time": "2019-11-13T04:34:55.000+01:00",
+        "seconds": 370,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28663488,
+        "description": "161-stanje-kartice",
+        "end_time": "2019-11-13T04:32:21.000+01:00",
+        "start_time": "2019-11-13T04:25:18.000+01:00",
+        "seconds": 423,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28663324,
+        "description": "161-stanje-kartice",
+        "end_time": "2019-11-13T04:20:25.000+01:00",
+        "start_time": "2019-11-13T04:16:30.000+01:00",
+        "seconds": 235,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28414778,
+        "description": "161-stanje-kartice",
+        "end_time": "2019-11-08T00:25:23.000+01:00",
+        "start_time": "2019-11-07T20:47:41.000+01:00",
+        "seconds": 13062,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28413924,
+        "description": "161-stanje-kartice",
+        "end_time": "2019-11-07T20:34:31.000+01:00",
+        "start_time": "2019-11-07T20:15:41.000+01:00",
+        "seconds": 1130,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    },
+    {
+        "id": 28188413,
+        "description": "156-pregled-spletnih-narocil",
+        "end_time": "2019-11-04T13:09:55.000+01:00",
+        "start_time": "2019-11-04T12:44:49.000+01:00",
+        "seconds": 1506,
+        "project": {
+            "id": 419621,
+            "name": "TestCompany1",
+            "currency": "USD"
+        },
+        "worker": {
+            "id": 64164,
+            "name": "Andrej Brus"
+        },
+        "amount": null,
+        "last_shot": null,
+        "shots_count": 0
+    }
+]
